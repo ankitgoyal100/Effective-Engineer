@@ -8,9 +8,13 @@
 ### High Level overview
 Excerpted from: https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf
 ![overview](overview.png)
+### Personal Characteristics
 ![personal](personal.png)
+### Collaborative Characteristics
 ![collaboration](collaboration.png)
+### Decision Making Characteristics
 ![decision_making](decision_making.png)
+### Software and Design Skills
 ![software](software.png)
 
 ### Focus on High Leverage Activities
