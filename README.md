@@ -1,12 +1,17 @@
 # Effective Engineer - Notes
-- By Edmond Lau
-- Highly Recommended :+1:
-- http://www.theeffectiveengineer.com/
 
 ### What's an Effective Engineer? 
 - They are the people who get things done. Effective Engineers produce results. 
 
 ## Adopt the Right Mindsets
+
+### High Level overview
+Excerpted from: https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf
+![overview](overview.png)
+![personal](personal.png)
+![collaboration](collaboration.png)
+![decision_making](decision_making.png)
+![software](software.png)
 
 ### Focus on High Leverage Activities
 - Leverage = Impact Produced / Time Invested
